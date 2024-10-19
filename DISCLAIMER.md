@@ -4,4 +4,4 @@ This repository is a collection of resources and materials I have personally fou
 
 Please note that I am not officially endorsing or promoting any specific source or material referenced in this repository. These references are shared solely for educational purposes and should be interpreted as personal recommendations, not professional endorsements.
 
-- gv
+gv.
